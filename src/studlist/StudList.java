@@ -18,7 +18,7 @@ public class StudList {
      */
     public static void main(String[] args) {
         
-        Student[] sList=new Student[3];//declaration of arrays of objects
+        Student[] sList=new Student[2];//declaration of arrays of objects
         Scanner input=new Scanner(System.in);
         
         for(int i=0;i<=sList.length-1;i++)
